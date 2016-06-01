@@ -5,7 +5,7 @@ A first version of the object trackign data set can be at
 
   https://git-amd.tuebingen.mpg.de/cassinaj/object_tracking_dataset_v1_lfs
   
-To fetch the data set you need to use [git-lfs](https://git-lfs.github.com). The data is based on OopenNI 1.5.x.
+To fetch the data set you need to use [git-lfs](https://git-lfs.github.com). The data is based on OpenNI 1.5.x.
 
 ## Planned Updates
 ### Object Tracking Data Set v1.1
