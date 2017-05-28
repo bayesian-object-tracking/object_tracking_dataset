@@ -7,6 +7,9 @@ A first version of the object trackign data set can be at
   
 To fetch the data set you need to use [git-lfs](https://git-lfs.github.com). The data is based on OpenNI 1.5.x.
 
+The below figure shows an image of each object in the data set.
+![](Objects_small.png?raw=true)
+
 ## Planned Updates
 ### Object Tracking Data Set v1.1
 The data set will be converted to OpenNI 2.0 format. 
