@@ -15,3 +15,17 @@ The data set will be converted to OpenNI 2.0 format.
 Recording data set containing depth and RGB images.
 
 For more details please contact me at jan.issac@gmail.com
+
+## How to cite?
+```
+@inproceedings{jan_ICRA_2016,
+ title = {Depth-based Object Tracking Using a Robust Gaussian Filter},
+ author = {Issac, Jan and W{\"u}thrich, Manuel and Garcia Cifuentes, Cristina and Bohg, Jeannette and Trimpe, Sebastian and Schaal, Stefan},
+ booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) 2016},
+ publisher = {IEEE},
+ month = may,
+ year = {2016},
+ url = {http://arxiv.org/abs/1602.06157},
+ month_numeric = {5}
+}
+```
