@@ -1,11 +1,7 @@
 # Object Tracking Data Set v1
-The data set contains depth-images at a resolution of 640x480 at 30Hz and a groundtruth poses obtained from a VICON system at 100Hz.
+The data set contains depth-images at a resolution of 640x480 at 30Hz and a groundtruth poses obtained from a VICON system at 100Hz. The data is based on OpenNI 1.5.x.
 
-The current version of the object tracking data set can found be at
-
-  https://git-amd.tuebingen.mpg.de/cassinaj/object_tracking_dataset_v1_lfs
-  
-To fetch the data set you need to use [git-lfs](https://git-lfs.github.com). The data is based on OpenNI 1.5.x.
+The current version can found be at https://git-amd.tuebingen.mpg.de/cassinaj/object_tracking_dataset_v1_lfs. To fetch the data set you need to use [git-lfs](https://git-lfs.github.com). 
 
 The below figure shows an image of each object in the data set.
 ![](Objects_small.png?raw=true)
