@@ -1,7 +1,7 @@
 # Object Tracking Data Set v1
 The data set contains depth-images at a resolution of 640x480 at 30Hz and a groundtruth poses obtained from a VICON system at 100Hz.
 
-A first version of the object trackign data set can be at
+The current version of the object tracking data set can found be at
 
   https://git-amd.tuebingen.mpg.de/cassinaj/object_tracking_dataset_v1_lfs
   
