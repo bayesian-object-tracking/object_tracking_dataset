@@ -6,14 +6,6 @@ The current version can found be at https://git-amd.tuebingen.mpg.de/cassinaj/ob
 The below figure shows an image of each object in the data set.
 ![](Objects_small.png?raw=true)
 
-## Planned Updates
-### Object Tracking Data Set v1.1
-The data set will be converted to OpenNI 2.0 format. 
-
-### Object Tracking Data Set v2
-Recording data set containing depth and RGB images.
-
-For more details please contact me at jan.issac@gmail.com
 
 ## How to cite?
 ```
